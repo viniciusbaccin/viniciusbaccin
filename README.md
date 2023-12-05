@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Vinicius</h1>
 <h3 align="center">A passionate frontend developer in constant learning</h3>
 
-- 🔭 I’m currently working on traceBOX at [Spark](https://www.sparkag.com.br)
+- 🔭 I’m currently working on [traceBOX](https://sparkag.com.br/tracebox/) at [Spark](https://www.sparkag.com.br)
 
 - 🌱 I’m currently learning **React and TypeScript**
 
