@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [traceBOX](https://sparkag.com.br/tracebox/) at [Spark](https://www.sparkag.com.br)
 
-- 🌱 I’m currently learning **React and TypeScript**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vinicius-baccin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinicius-baccin" height="30" width="40" /></a>
